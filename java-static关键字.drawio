@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="第 1 页" id="IQaCWWGWbwUwdhZFxu20">
-    <mxGraphModel dx="1804" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
             <mxRectangle height="30" width="90" x="300" y="485" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vNMciF-zVbNI2TN8Mv8U-12" parent="vNMciF-zVbNI2TN8Mv8U-10" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;张三&quot;&lt;br&gt;age = 18&lt;div&gt;country = &quot;中华民国&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="vNMciF-zVbNI2TN8Mv8U-12" parent="vNMciF-zVbNI2TN8Mv8U-10" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;李四&quot;&lt;br&gt;age = 19&lt;div&gt;country = &quot;中华民国&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="160" y="83" as="geometry" />
         </mxCell>
-        <mxCell id="vNMciF-zVbNI2TN8Mv8U-13" parent="vNMciF-zVbNI2TN8Mv8U-10" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;张三&quot;&lt;br&gt;age = 18&lt;div&gt;country = &quot;中华民国&quot;&lt;/div&gt;" vertex="1">
+        <mxCell id="vNMciF-zVbNI2TN8Mv8U-13" parent="vNMciF-zVbNI2TN8Mv8U-10" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;王五&quot;&lt;br&gt;age = 20&lt;div&gt;country = &quot;中华民国&quot;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="160" y="133" as="geometry" />
         </mxCell>
         <mxCell id="vNMciF-zVbNI2TN8Mv8U-14" parent="vNMciF-zVbNI2TN8Mv8U-10" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;张三&quot;&lt;br&gt;age = 18&lt;div&gt;country = &quot;中华民国&quot;&lt;/div&gt;" vertex="1">
@@ -58,6 +58,63 @@
         </mxCell>
         <mxCell id="6TStSb1Labw_qV2Rys-g-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;为什么需要static&lt;/font&gt;" vertex="1">
           <mxGeometry height="70" width="270" x="430" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="157" width="520" x="290" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-2" parent="6TStSb1Labw_qV2Rys-g-20" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;fontSize=15;startSize=30;" value="栈内存" vertex="1">
+          <mxGeometry height="157" width="130" x="190" as="geometry">
+            <mxRectangle height="30" width="90" x="120" y="485" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-3" parent="6TStSb1Labw_qV2Rys-g-2" style="whiteSpace=wrap;html=1;strokeColor=#D6B656;strokeWidth=2;fontSize=13;" value="per1" vertex="1">
+          <mxGeometry height="40" width="130" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-4" parent="6TStSb1Labw_qV2Rys-g-2" style="whiteSpace=wrap;html=1;strokeColor=#D6B656;strokeWidth=2;fontSize=13;" value="per3" vertex="1">
+          <mxGeometry height="40" width="130" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-5" parent="6TStSb1Labw_qV2Rys-g-2" style="whiteSpace=wrap;html=1;strokeColor=#D6B656;strokeWidth=2;fontSize=13;" value="per2" vertex="1">
+          <mxGeometry height="40" width="130" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-6" parent="6TStSb1Labw_qV2Rys-g-20" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontSize=15;startSize=30;" value="Container" vertex="1">
+          <mxGeometry height="156" width="160" x="360" as="geometry">
+            <mxRectangle height="30" width="90" x="300" y="485" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-7" parent="6TStSb1Labw_qV2Rys-g-6" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;李四&quot;&lt;br&gt;age = 19" vertex="1">
+          <mxGeometry height="40" width="160" y="73" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-8" parent="6TStSb1Labw_qV2Rys-g-6" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;王五&quot;&lt;br&gt;age = 20" vertex="1">
+          <mxGeometry height="40" width="160" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-9" parent="6TStSb1Labw_qV2Rys-g-6" style="whiteSpace=wrap;html=1;strokeColor=#6C8EBF;strokeWidth=2;fontSize=13;" value="name = &quot;张三&quot;&lt;br&gt;age = 18" vertex="1">
+          <mxGeometry height="40" width="160" y="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-10" edge="1" parent="6TStSb1Labw_qV2Rys-g-20" source="6TStSb1Labw_qV2Rys-g-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6TStSb1Labw_qV2Rys-g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-11" edge="1" parent="6TStSb1Labw_qV2Rys-g-20" source="6TStSb1Labw_qV2Rys-g-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6TStSb1Labw_qV2Rys-g-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-12" edge="1" parent="6TStSb1Labw_qV2Rys-g-20" source="6TStSb1Labw_qV2Rys-g-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6TStSb1Labw_qV2Rys-g-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-13" parent="6TStSb1Labw_qV2Rys-g-20" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;fontSize=15;startSize=50;" value="全局数据区&#xa;static属性" vertex="1">
+          <mxGeometry height="95" width="150" as="geometry">
+            <mxRectangle height="30" width="90" x="120" y="485" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-14" parent="6TStSb1Labw_qV2Rys-g-13" style="whiteSpace=wrap;html=1;strokeColor=#9673A6;strokeWidth=2;fontSize=13;" value="country = &quot;中华民国&quot;" vertex="1">
+          <mxGeometry height="40" width="150" y="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-17" edge="1" parent="6TStSb1Labw_qV2Rys-g-20" source="6TStSb1Labw_qV2Rys-g-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="6TStSb1Labw_qV2Rys-g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-18" edge="1" parent="6TStSb1Labw_qV2Rys-g-20" source="6TStSb1Labw_qV2Rys-g-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="6TStSb1Labw_qV2Rys-g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6TStSb1Labw_qV2Rys-g-19" edge="1" parent="6TStSb1Labw_qV2Rys-g-20" source="6TStSb1Labw_qV2Rys-g-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="6TStSb1Labw_qV2Rys-g-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
