@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="第 1 页" id="_di7cLxleOfDpVYbFl8K">
+    <mxGraphModel dx="902" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-11" edge="1" parent="1" source="D2k3UAapfYZvU8m9FKj4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" target="D2k3UAapfYZvU8m9FKj4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-12" edge="1" parent="1" source="D2k3UAapfYZvU8m9FKj4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=2;" target="D2k3UAapfYZvU8m9FKj4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;gradientColor=#CCCCCC;gradientDirection=west;shadow=1;strokeColor=none;" value="嵌套类" vertex="1">
+          <mxGeometry height="50" width="220" x="250" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;gradientColor=#CCCCCC;gradientDirection=west;strokeColor=none;shadow=1;" value="静态嵌套类" vertex="1">
+          <mxGeometry height="50" width="230" x="90" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-13" edge="1" parent="1" source="D2k3UAapfYZvU8m9FKj4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" target="D2k3UAapfYZvU8m9FKj4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-14" edge="1" parent="1" source="D2k3UAapfYZvU8m9FKj4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" target="D2k3UAapfYZvU8m9FKj4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-15" edge="1" parent="1" source="D2k3UAapfYZvU8m9FKj4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;endArrow=none;endFill=0;" target="D2k3UAapfYZvU8m9FKj4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;gradientColor=#CCCCCC;gradientDirection=west;strokeColor=none;shadow=1;" value="非静态嵌套类（内部类）" vertex="1">
+          <mxGeometry height="50" width="230" x="400" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;shadow=1;gradientColor=#CCCCCC;gradientDirection=west;strokeColor=none;" value="成员内部类" vertex="1">
+          <mxGeometry height="40" width="120" x="300" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;shadow=1;gradientColor=#CCCCCC;gradientDirection=west;strokeColor=none;" value="局部内部类" vertex="1">
+          <mxGeometry height="40" width="120" x="455" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="D2k3UAapfYZvU8m9FKj4-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;shadow=1;gradientColor=#CCCCCC;gradientDirection=west;strokeColor=none;" value="匿名内部类" vertex="1">
+          <mxGeometry height="40" width="120" x="610" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
