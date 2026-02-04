@@ -16,7 +16,7 @@
             <mxPoint x="440" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V74lSIBDvaaFiBmGC9xD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" value="启动线程，执行run()方法中的代码" vertex="1">
+        <mxCell id="V74lSIBDvaaFiBmGC9xD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;" value="启动线程，执行&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;run()&amp;nbsp;&lt;/font&gt;方法中的代码" vertex="1">
           <mxGeometry height="70" width="360" x="120" y="280" as="geometry" />
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-5" edge="1" parent="1" source="V74lSIBDvaaFiBmGC9xD-2" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V74lSIBDvaaFiBmGC9xD-4" value="">
@@ -25,10 +25,10 @@
             <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V74lSIBDvaaFiBmGC9xD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="根据Runnable对象创建Thread对象" vertex="1">
+        <mxCell id="V74lSIBDvaaFiBmGC9xD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="根据&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Runnable&amp;nbsp;&lt;/font&gt;对象创建 &lt;font face=&quot;Times New Roman&quot;&gt;Thread&lt;/font&gt; 对象" vertex="1">
           <mxGeometry height="30" width="340" x="130" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="V74lSIBDvaaFiBmGC9xD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="调用start（）方法" vertex="1">
+        <mxCell id="V74lSIBDvaaFiBmGC9xD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="调用 &lt;font face=&quot;Times New Roman&quot;&gt;start()&lt;/font&gt; 方法" vertex="1">
           <mxGeometry height="30" width="210" x="180" y="210" as="geometry" />
         </mxCell>
       </root>
