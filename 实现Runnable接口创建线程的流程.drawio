@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;strokeWidth=2;" value="启动线程，执行&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;run()&amp;nbsp;&lt;/font&gt;方法中的代码" vertex="1">
-          <mxGeometry height="70" width="360" x="120" y="280" as="geometry" />
+          <mxGeometry height="50" width="360" x="120" y="270" as="geometry" />
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-5" edge="1" parent="1" source="V74lSIBDvaaFiBmGC9xD-2" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V74lSIBDvaaFiBmGC9xD-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
