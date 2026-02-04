@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="第 1 页" id="7-vjEryMra-GEhqB5Dxp">
-    <mxGraphModel dx="902" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="515" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;strokeWidth=2;" value="启动线程，执行&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;run()&amp;nbsp;&lt;/font&gt;方法中的代码" vertex="1">
-          <mxGeometry height="50" width="360" x="120" y="240" as="geometry" />
+          <mxGeometry height="50" width="360" x="120" y="250" as="geometry" />
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-5" edge="1" parent="1" source="V74lSIBDvaaFiBmGC9xD-2" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V74lSIBDvaaFiBmGC9xD-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -26,10 +26,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="根据&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Runnable&amp;nbsp;&lt;/font&gt;对象创建 &lt;font face=&quot;Times New Roman&quot;&gt;Thread&lt;/font&gt; 对象" vertex="1">
-          <mxGeometry height="30" width="340" x="130" y="60" as="geometry" />
+          <mxGeometry height="20" width="340" x="130" y="68" as="geometry" />
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="调用 &lt;font face=&quot;Times New Roman&quot;&gt;start()&lt;/font&gt; 方法" vertex="1">
-          <mxGeometry height="30" width="210" x="204" y="180" as="geometry" />
+          <mxGeometry height="30" width="210" x="195" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
