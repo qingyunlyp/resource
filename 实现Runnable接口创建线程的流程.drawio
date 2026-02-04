@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="根据&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;Runnable&amp;nbsp;&lt;/font&gt;对象创建 &lt;font face=&quot;Times New Roman&quot;&gt;Thread&lt;/font&gt; 对象" vertex="1">
-          <mxGeometry height="30" width="340" x="130" y="50" as="geometry" />
+          <mxGeometry height="30" width="340" x="130" y="60" as="geometry" />
         </mxCell>
         <mxCell id="V74lSIBDvaaFiBmGC9xD-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="调用 &lt;font face=&quot;Times New Roman&quot;&gt;start()&lt;/font&gt; 方法" vertex="1">
           <mxGeometry height="30" width="210" x="204" y="180" as="geometry" />
