@@ -70,7 +70,7 @@
         <mxCell id="xZMPjhROzOG_vhOApR-z-22" parent="xZMPjhROzOG_vhOApR-z-31" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#000000;strokeColor=#575757;fontColor=#FFFFFF;gradientColor=default;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="320" y="207" as="geometry" />
         </mxCell>
-        <mxCell id="xZMPjhROzOG_vhOApR-z-25" parent="xZMPjhROzOG_vhOApR-z-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontStyle=1;fontSize=17;" value="哈希冲突严重（长度 ≥ 8）&lt;div&gt;结构：红黑树&lt;/div&gt;&lt;div&gt;时间复杂度：O(㏒ n)&lt;/div&gt;" vertex="1">
+        <mxCell id="xZMPjhROzOG_vhOApR-z-25" parent="xZMPjhROzOG_vhOApR-z-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontStyle=0;fontSize=16;" value="&lt;font&gt;哈希冲突严重（长度 ≥ 8）&lt;/font&gt;&lt;div&gt;&lt;font&gt;结构：红黑树&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;时间复杂度：O(㏒ n)&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="210" x="420" y="79.5" as="geometry" />
         </mxCell>
         <mxCell id="xZMPjhROzOG_vhOApR-z-26" edge="1" parent="xZMPjhROzOG_vhOApR-z-31" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=7.272727272727273;endSize=3.3507246376811595;width=5.4106280193236715;labelBackgroundColor=#FF999A;fillColor=#f8cecc;strokeColor=#b85450;" value="">
