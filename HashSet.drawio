@@ -10,8 +10,8 @@
         <mxCell id="zP_jMitzf_XnZgLFdldx-5" edge="1" parent="1" source="zP_jMitzf_XnZgLFdldx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zP_jMitzf_XnZgLFdldx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zP_jMitzf_XnZgLFdldx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=20;" value="用户调用hashSet.add(element)方法" vertex="1">
-          <mxGeometry height="50" width="360" x="110" y="100" as="geometry" />
+        <mxCell id="zP_jMitzf_XnZgLFdldx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;fontSize=20;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;用户调用 hashSet.add(element) 方法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="340" x="120" y="100" as="geometry" />
         </mxCell>
         <mxCell id="zP_jMitzf_XnZgLFdldx-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=25;" value="HashSet集合" vertex="1">
           <mxGeometry height="40" width="160" as="geometry" />
