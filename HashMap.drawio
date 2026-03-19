@@ -62,7 +62,7 @@
         <mxCell id="umXcCZr1ilUIg5b_qDOC-21" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="umXcCZr1ilUIg5b_qDOC-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="umXcCZr1ilUIg5b_qDOC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9F4;strokeColor=#F5B177;" value="阈值 = 16 × 1 = 16" vertex="1">
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9F4;strokeColor=#F5B177;" value="阈值 = 16 × 1.0 = 16" vertex="1">
           <mxGeometry height="40" width="140" x="420" y="230" as="geometry" />
         </mxCell>
         <mxCell id="umXcCZr1ilUIg5b_qDOC-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E67E22;strokeColor=#D48F4C;fontColor=#ffffff;" value="存到第17个时触发扩容" vertex="1">
