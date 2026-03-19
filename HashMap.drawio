@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.6.3">
+  <diagram name="第 1 页" id="KMmdlRkT-g-0g02Z3FLZ">
+    <mxGraphModel dx="1226" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-11" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="umXcCZr1ilUIg5b_qDOC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-12" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" target="umXcCZr1ilUIg5b_qDOC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-13" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="umXcCZr1ilUIg5b_qDOC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-14" connectable="0" parent="umXcCZr1ilUIg5b_qDOC-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#414141;labelBackgroundColor=none;" value="设定前提: 当前容量Capacity = 16" vertex="1">
+          <mxGeometry relative="1" x="-0.4365" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="扩容阈值 = 容量 + 负载因子" vertex="1">
+          <mxGeometry height="40" width="200" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-15" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="umXcCZr1ilUIg5b_qDOC-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="负载因子 0.5" vertex="1">
+          <mxGeometry height="40" width="140" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-16" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="umXcCZr1ilUIg5b_qDOC-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2F9FB;strokeColor=#7DD7F0;" value="阈值 = 16 × 0.5 = 8" vertex="1">
+          <mxGeometry height="40" width="140" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="存到第9个时触发扩容" vertex="1">
+          <mxGeometry height="40" width="140" x="40" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-17" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="负载因子 0.75(默认)" vertex="1">
+          <mxGeometry height="40" width="140" x="230" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-18" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="umXcCZr1ilUIg5b_qDOC-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F2FCF4;strokeColor=#2DB468;" value="阈值 = 16 × 0.75 = 12" vertex="1">
+          <mxGeometry height="40" width="140" x="230" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" value="存到第13个时触发扩容" vertex="1">
+          <mxGeometry height="40" width="140" x="230" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-19" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="umXcCZr1ilUIg5b_qDOC-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="负载因子 1.0" vertex="1">
+          <mxGeometry height="40" width="140" x="420" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-21" edge="1" parent="1" source="umXcCZr1ilUIg5b_qDOC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="umXcCZr1ilUIg5b_qDOC-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF9F4;strokeColor=#F5B177;" value="阈值 = 16 × 1 = 16" vertex="1">
+          <mxGeometry height="40" width="140" x="420" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E67E22;strokeColor=#D48F4C;fontColor=#ffffff;" value="存到第17个时触发扩容" vertex="1">
+          <mxGeometry height="40" width="140" x="420" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="umXcCZr1ilUIg5b_qDOC-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="HashMap扩容机制核心公式" vertex="1">
+          <mxGeometry height="30" width="346" x="127" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
