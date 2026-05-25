@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="v11GouYIB5A5guaAuWGL">
+    <mxGraphModel dx="858" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rlVZY8zxedThhZ7oGxAm-1" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="&lt;b&gt;Grandpa&lt;/b&gt;" vertex="1">
+          <mxGeometry height="58" width="140" x="290" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rlVZY8zxedThhZ7oGxAm-6" parent="rlVZY8zxedThhZ7oGxAm-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontFamily=Courier New;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="8" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rlVZY8zxedThhZ7oGxAm-8" parent="rlVZY8zxedThhZ7oGxAm-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="+ method()" vertex="1">
+          <mxGeometry height="20" width="140" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-12" edge="1" parent="1" source="FsZu-XX9Cvf2Q46TyFBJ-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.496;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Courier New;fontSize=16;" target="FsZu-XX9Cvf2Q46TyFBJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-1" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="&lt;b&gt;Father&lt;/b&gt;" vertex="1">
+          <mxGeometry height="58" width="140" x="170" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-2" parent="FsZu-XX9Cvf2Q46TyFBJ-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontFamily=Courier New;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="8" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-3" parent="FsZu-XX9Cvf2Q46TyFBJ-1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="+ method()" vertex="1">
+          <mxGeometry height="20" width="140" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-13" edge="1" parent="1" source="FsZu-XX9Cvf2Q46TyFBJ-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.562;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=16;" target="FsZu-XX9Cvf2Q46TyFBJ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-4" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="&lt;b&gt;Uncle&lt;/b&gt;" vertex="1">
+          <mxGeometry height="58" width="140" x="410" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-5" parent="FsZu-XX9Cvf2Q46TyFBJ-4" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontFamily=Courier New;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="8" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-6" parent="FsZu-XX9Cvf2Q46TyFBJ-4" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="+ method()" vertex="1">
+          <mxGeometry height="20" width="140" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-7" parent="1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="&lt;b&gt;Son&lt;/b&gt;" vertex="1">
+          <mxGeometry height="58" width="140" x="290" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-8" parent="FsZu-XX9Cvf2Q46TyFBJ-7" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontFamily=Courier New;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="8" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-9" parent="FsZu-XX9Cvf2Q46TyFBJ-7" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;fontFamily=Courier New;fontSize=16;" value="???" vertex="1">
+          <mxGeometry height="20" width="140" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-10" edge="1" parent="1" source="rlVZY8zxedThhZ7oGxAm-8" style="endArrow=classic;html=1;rounded=0;exitX=0.496;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Courier New;fontSize=16;" target="FsZu-XX9Cvf2Q46TyFBJ-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="370" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-11" edge="1" parent="1" source="rlVZY8zxedThhZ7oGxAm-8" style="endArrow=classic;html=1;rounded=0;exitX=0.496;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.514;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Courier New;fontSize=16;" target="FsZu-XX9Cvf2Q46TyFBJ-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="多继承(假设)" vertex="1">
+          <mxGeometry height="30" width="110" x="303" y="412" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF0000;fontStyle=1;fontSize=15;" value="&lt;font face=&quot;Courier New&quot;&gt;son.method()&lt;/font&gt; 该调用谁的实现？&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;Father?Uncle?&lt;/font&gt;还是&lt;font face=&quot;Courier New&quot;&gt;Grandpa&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="255" x="235" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="FsZu-XX9Cvf2Q46TyFBJ-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="问题核心：菱形继承&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;son.method()&lt;/font&gt;调用时产生歧义&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="250" x="235" y="518" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
